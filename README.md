@@ -16,13 +16,17 @@ The `main` branch contains the starting code for the course and the `final` bran
 
 ### Instructor
 
-Josh Samuelson 
+Josh Samuelson
+
+### Learner
+
+Kennedy Uzoho
                             
 DevOps Engineer
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/josh-samuelson).
+Check out his other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/josh-samuelson).
 
 [lil-course-url]: https://www.linkedin.com/learning/learning-terraform-15575129?dApp=59033956
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3087701/3087701-1666200696363-16x9.jpg
