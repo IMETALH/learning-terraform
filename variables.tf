@@ -31,11 +31,11 @@ variable "environment" {
     network_prefix = "10.0"
   }
 
-variable "asg_min_size" {
+variable "min_size" {
   description = "Minimun number of instances in the ASG"
   default     = 1
 }
-variable "asg_max_size" {
+variable "max_size" {
   description = "Maximun number of instances in the ASG"
   default     = 2
 }
