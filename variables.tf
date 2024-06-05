@@ -30,12 +30,13 @@ variable "environment" {
     name           = "dev"
     network_prefix = "10.0"
   }
+}
 
-variable "min_size" {
+variable "asg_min_size" {
   description = "Minimun number of instances in the ASG"
   default     = 1
 }
-variable "max_size" {
+variable "asg_max_size" {
   description = "Maximun number of instances in the ASG"
   default     = 2
 }
