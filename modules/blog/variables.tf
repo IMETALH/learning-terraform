@@ -13,7 +13,7 @@ variable "instance_type" {
 
    default = {
      name  = "bitnami-tomcat-*-x86_64-hvm-ebs-nami"
-     # changed owner you own AWS account 
+     # Later if I create my own AMI, change owner to your own AWS account ID 
      owner = "979382823631" # Bitnami, value: 979382823631
    }
 }
